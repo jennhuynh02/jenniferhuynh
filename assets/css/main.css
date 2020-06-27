@@ -1059,5 +1059,10 @@
 
 .projects{
 	display: flex;
+}
+
+#project {
+	display: flex;
 	font-size: large;
+	margin: 0px 20px 0px 20px;
 }
