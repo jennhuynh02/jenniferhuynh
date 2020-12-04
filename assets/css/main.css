@@ -530,7 +530,8 @@
 		position: relative;
 		border-bottom: none;
 		height: 80px;
-    width: 80px;
+		display: flex;
+    flex-direction: column;
 	}
 
 		.icon:before {
